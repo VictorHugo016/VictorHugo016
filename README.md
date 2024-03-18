@@ -6,21 +6,18 @@
 Sou um entusiasta de desenvolvimento full stack, apaixonado por criar experiências web incríveis.
 
 - 🌱 Atualmente estou estudando e trabalhando com as seguintes tecnologias:
-  - <img src="html_icon.png" width="20"> HTML5
-  - <img src="css_icon.png" width="20"> CSS3 (incluindo Flexbox e Grid)
-  - <img src="js_icon.png" width="20"> JavaScript (ES6+)
-  - <img src="node_icon.png" width="20"> Node.js
+  - <img src="HTML.png" width="20"> HTML5
+  - <img src="CSS.png" width="20"> CSS3 (incluindo Flexbox e Grid)
+  - <img src="JS.png" width="20"> JavaScript (ES6+)
+  - <img src="NODE.png" width="20"> Node.js
 
 - 💼 Estou procurando oportunidades para trabalhar em projetos desafiadores e colaborativos.
 
 ## Habilidades
 - HTML5
-- CSS3 (incluindo Flexbox e Grid)
-- JavaScript (ES6+)
-- Bootstrap
+- CSS3
+- JavaScript
 - Node.js
-- Express.js
-- MongoDB
 - Git
 
 ## Projetos
